@@ -8,3 +8,6 @@ Every click in the will mark the position and jump to the next frame. Repeat unt
 3-Run the Macro and select a specific diameter size for the ROI.
 4-The macro will ask to select the Movie and also the results obtained from the Manual Tracking (with the positions)
 5-The generated results will give a mean intensity of the ROI area in the defined position at each time point
+
+
+Lenguage in Fiji for this macro to work: IJ1 Macro
